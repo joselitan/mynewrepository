@@ -4,7 +4,7 @@ Testing change on branch
 git status
 git add <filename>
 git commit -m "your message"
-git push origin my-new-branch
+git push origin <newly_created_branch>
 
 
 git checkout master (switch back to master branch)
