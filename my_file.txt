@@ -1,1 +1,11 @@
 Testing change on branch
+
+
+git status
+git add <filename>
+git commit -m "your message"
+git push origin <newly_created_branch>
+
+
+git checkout master (switch back to master branch)
+git pull origin master (update master branch locally with latest update done in master branch in github)
